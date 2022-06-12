@@ -1,0 +1,8 @@
+{
+    "MODE": {
+        "menu":    [["RETR_EXTERNAL", "RETR_EXTERNAL"], ["RETR_LIST", "RETR_LIST"], ["RETR_CCOMP", "RETR_CCOMP"], ["RETR_TREE", "RETR_TREE"]]
+    },
+    "METHOD": {
+        "menu":    [["CHAIN_APPROX_NONE", "CHAIN_APPROX_NONE"], ["CHAIN_APPROX_SIMPLE", "CHAIN_APPROX_SIMPLE"], ["CHAIN_APPROX_TC89_L1", "CHAIN_APPROX_TC89_L1"]]
+    }
+}

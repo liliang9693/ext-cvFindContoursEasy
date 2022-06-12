@@ -1,0 +1,25 @@
+{
+  "name": {
+    "zh-cn": "OpenCV轮廓检测",
+    "en": "OpenCV FindContours"
+  },
+  "description": {
+    "zh-cn": "Python模式中调用OpenCV库实现形状轮廓检测的一些积木",
+    "en": "OpenCV FindContours"
+  },
+  "author": "liliang",
+  "email": "969316753@qq.com",
+  "license": "MIT",
+  "isBoard": false,
+  "id": "cvFindContoursEasy",
+  "platform": ["win","mac","web","linux"],
+  "version": "0.0.1",
+  "asset": {
+	"python": {
+		"dir": "python/",
+		"main": "main.ts",
+		"dependencies": {
+      }
+  }
+}
+}
